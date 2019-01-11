@@ -17,6 +17,7 @@ public class Confronto {
     public static void main(String[] args) {
 
         // per prendere un input da tastiera
+        // Strumento della piattaforma Java, libreria WebAPI
         Scanner s = new Scanner(System.in);
         System.out.println("Inserisci il primo numero: ");
 
